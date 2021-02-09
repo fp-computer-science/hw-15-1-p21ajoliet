@@ -27,7 +27,7 @@ print((4, 5, 6) + (1, 2, 3))
 print(('a') * 5)
 
 #Question 9
-
+(fruit1, fruit2, fruit3, fruit4) = fruits
 
 #Question 10
 del(fruits)
